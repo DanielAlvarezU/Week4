@@ -1,0 +1,19 @@
+button {
+    background-color: #4c7aaf; 
+    color: white;             
+    font-family: Arial, sans-serif; 
+    border: 2px solid #4c99af; 
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease, 
+                font-family 0.3s ease, border-color 0.3s ease;
+  }
+
+  
+  button:hover {
+    background-color: #4557a0; 
+    color: black;             
+    font-family: 'Courier New', Courier, monospace; 
+    border-color: #4594a0; 
+  }
